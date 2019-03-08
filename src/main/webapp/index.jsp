@@ -783,12 +783,12 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div>-->
           <div class="col-sm-6 col-md-4">
             <div class="wow fadeInDown" data-wow-delay="0.1s">
               <div class="widget">
-                <h5>Our location</h5>
-                <p>The Suithouse V303, Kuningan City, Jakarta Indonesia 12940</p>
+                <h5>Encuentranos en</h5>
+                <p>29a Calle Poniente, frente a ex-Claro, San Salvador</p>
 
               </div>
             </div>
