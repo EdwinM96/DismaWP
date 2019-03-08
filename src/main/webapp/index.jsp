@@ -48,6 +48,10 @@
       .text-right .btn{
           background: #ff3333;
       }
+      .intro-content{
+          
+          background-image: url(../media/fachada.jpg") ;
+      }
   </style>
 </head>
 
