@@ -129,7 +129,7 @@
                     <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Solo dinos lo que necesitas</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
                   </ul>
                   <p class="text-right wow bounceIn" data-wow-delay="0.4s">
-                    <a href="#" class="btn btn-skin btn-lg">Learn more <i class="fa fa-angle-right"></i></a>
+                    <a href="#" class="btn btn-skin btn-lg">Recibe Promociones <i class="fa fa-angle-right"></i></a>
                   </p>
                 </div>
               </div>
@@ -801,7 +801,7 @@
                 <h5>Siguenos!</h5>
                 <ul class="company-social">
                   <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li class="social-youtube"><a href="#"><i class="fa fa-youtube"></i></a></li>
+                  <li class="social-youtube"><a href="#"><i class="fa fa-twitter"></i></a></li>
                   <!--<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   <li class="social-vimeo"><a href="#"><i class="fa fa-vimeo-square"></i></a></li>
                   <li class="social-dribble"><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
