@@ -45,6 +45,9 @@
       .collapse .nav a:hover{
           color:white !important;
       }
+      .text-right .btn{
+          background: #ff3333;
+      }
   </style>
 </head>
 
@@ -72,7 +75,7 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.jsp">
                     <img src="media/" alt="" width="150" height="40" />
                 </a>
         </div>
@@ -88,9 +91,9 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="index.html">Home CTA</a></li>
-                <li><a href="index-form.html">Home Form</a></li>
-                <li><a href="index-video.html">Home video</a></li>
+                <li><a href="index.jsp">Home CTA</a></li>
+                <li><a href="index-form.jsp">Home Form</a></li>
+                <li><a href="index-video.jsp">Home video</a></li>
               </ul>
             </li>
           </ul>
@@ -101,25 +104,25 @@
     </nav>
 
     <!-- Section: intro -->
-    <!----------------------------------------------------!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+    
     <section id="intro" class="intro"> 
       <div class="intro-content">
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
               <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
-                <h2 class="h-ultra">Medicio medical group</h2>
+                <h2 class="h-ultra">Encuentra los mejores precios del mercado</h2>
               </div>
               <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.1s">
-                <h4 class="h-light">Provide best quality healthcare for you</h4>
+                <h4 class="h-light">Las mejores marcas y la mejor calidad</h4>
               </div>
               <div class="well well-trans">
                 <div class="wow fadeInRight" data-wow-delay="0.1s">
 
                   <ul class="lead-list">
-                    <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Affordable monthly premium packages</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
-                    <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Choose your favourite doctor</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
-                    <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Only use friendly environment</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
+                    <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>En repuestos # 1</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
+                    <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Tenemos personal capacitado</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
+                    <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Solo dinos lo que necesitas</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
                   </ul>
                   <p class="text-right wow bounceIn" data-wow-delay="0.4s">
                     <a href="#" class="btn btn-skin btn-lg">Learn more <i class="fa fa-angle-right"></i></a>
@@ -131,7 +134,7 @@
             </div>
             <div class="col-lg-6">
               <div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                <img src="img/dummy/img-1.png" class="img-responsive" alt="" />
+                <img src="media/disma.png" class="img-responsive" alt="" />
               </div>
             </div>
           </div>
