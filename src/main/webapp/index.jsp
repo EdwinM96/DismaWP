@@ -73,7 +73,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
           <a class="navbar-brand" href="index.html">
-                    <img src="media/Captura.PNG" alt="" width="150" height="40" />
+                    <img src="media/" alt="" width="150" height="40" />
                 </a>
         </div>
 
