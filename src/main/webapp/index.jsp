@@ -42,6 +42,9 @@
       .collapse ul li:hover{
           background: #ff3333;
       }
+      .collapse .nav a{
+          color:  #ccccff !important;
+      }
       .collapse .nav a:hover{
           color:white !important;
       }
@@ -58,6 +61,7 @@
       .text-right a{
           background-color: black;
       }
+      
   </style>
 </head>
 
@@ -86,7 +90,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
           <a class="navbar-brand" href="index.jsp">
-                    <img src="media/" alt="" width="150" height="40" />
+                    <!--<img src="media/" alt="" width="150" height="40" />-->
                 </a>
         </div>
 
