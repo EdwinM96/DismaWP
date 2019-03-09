@@ -760,7 +760,7 @@ hr.bold {
 }
 
 .intro-content {
-	background: url(../media/fachada.jpg) no-repeat top center;
+	//background: url(../media/fachada.jpg) no-repeat top center;
 	padding:200px 0 60px;
 }
 .intro-content.intro-nobg {
@@ -1225,14 +1225,14 @@ Testimonial
 }
 
 .company-social .social-facebook a i{background: #3873ae;}
-.company-social .social-youtube a i{background: red;}
-.company-social .social-dribble a i{background: #d74980;}
+.company-social .social-youtube a i{background: #39CCCC;}
+.company-social .social-dribble a i{background: red; color: white;}
 .company-social .social-deviantart a i{background: #8da356;}
 .company-social .social-google a i {background: #000;}
 .company-social .social-vimeo a i {background: #51a6d3;}
 .company-social .social-facebook a:hover i {background: #4893ce;}
-.company-social .social-twitter a:hover i {background: #82e6ff;}
-.company-social .social-dribble a:hover i {background: #f769a0;}
+.company-social .social-youtube a:hover i {background: #fff;}
+.company-social .social-dribble a:hover i {background: red;}
 .company-social .social-deviantart a:hover i {background: #adc376;}
 .company-social .social-google a:hover i {background: #333;}
 .company-social .social-vimeo a:hover i {background: #71c6f3;}
