@@ -52,6 +52,7 @@
           
           background-image: url(../media/fachada.jpg") ;
       }
+
   </style>
 </head>
 
@@ -801,7 +802,7 @@
                 <h5>Siguenos!</h5>
                 <ul class="company-social">
                   <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li class="social-dribble"><a href="#"><i class="fa fa-youtube" style="background:red;"></i></a></li>
+                  <li class="social-youtube"><a href="#"><i class="fa fa-youtube" style="background:red;"></i></a></li>
                   
                 </ul>
               </div>
