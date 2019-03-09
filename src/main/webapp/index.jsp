@@ -50,9 +50,14 @@
       }
       .intro-content{
           
-          background-image: url(../media/fachada.jpg") ;
+          
       }
-
+      .text-right a:hover{
+          background-color: red;
+      }
+      .text-right a{
+          background-color: black;
+      }
   </style>
 </head>
 
