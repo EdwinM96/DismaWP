@@ -312,7 +312,7 @@ Navigation
 }
 
 .navbar-custom.top-nav-collapse .nav.navbar-nav {
-    background-color: rgba(0,0,0,0);
+    background-color: black;
 }
 
 .navbar.navbar-custom {
