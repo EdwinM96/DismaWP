@@ -131,19 +131,19 @@
             <div id="filters-container" class="cbp-l-filters-alignLeft">
               <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">Todos (
                 <div class="cbp-filter-counter"></div>)</div>
-              <div data-filter=".cardiologist" class="cbp-filter-item">Frenos (
+              <div data-filter=".frenos" class="cbp-filter-item">Frenos (
                 <div class="cbp-filter-counter"></div>)</div>
-              <div data-filter=".psychiatrist" class="cbp-filter-item">Amortiguadores (
+              <div data-filter=".amortiguadores" class="cbp-filter-item">Amortiguadores (
                 <div class="cbp-filter-counter"></div>)</div>
-              <div data-filter=".neurologist" class="cbp-filter-item">Lubricantes (
+              <div data-filter=".lubricantes" class="cbp-filter-item">Lubricantes (
                 <div class="cbp-filter-counter"></div>)</div>
             </div>
 
             <div id="grid-container" class="cbp-l-grid-team">
               <ul>
-                <li class="cbp-item psychiatrist">
+                <li class="cbp-item frenos">
                   <a href="marcas/NYB.html" class="cbp-caption cbp-singlePage">
-                    <div class="cbp-caption-defaultWrap">
+                    <div class="cbp-caption-defaultWrap" style="text-align:center;">
                       <img src="img/logos/NYB.png" alt="" width="100%">
                     </div>
                     <div class="cbp-caption-activeWrap">
@@ -157,7 +157,7 @@
                   <a href="marcas/NYB.html" class="cbp-singlePage cbp-l-grid-team-name">NYBrake</a>
                   <div class="cbp-l-grid-team-position">Frenos</div>
                 </li>
-                <li class="cbp-item cardiologist">
+                <li class="cbp-item amortiguadores">
                   <a href="marcas/KYB.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
                       <img src="img/productos/KYB.jpg" alt="" width="100%">
@@ -173,7 +173,7 @@
                   <a href="marcas/KYB.html" class="cbp-singlePage cbp-l-grid-team-name">KYB</a>
                   <div class="cbp-l-grid-team-position">Amortiguadores</div>
                 </li>
-                <li class="cbp-item cardiologist">
+                <li class="cbp-item lubricantes">
                   <a href="marcas/Castrol.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
                       <img src="img/logos/Castrol.png" alt="" width="100%">
@@ -189,7 +189,7 @@
                   <a href="marcas/Castrol.html" class="cbp-singlePage cbp-l-grid-team-name">Castrol</a>
                   <div class="cbp-l-grid-team-position">Lubricante</div>
                 </li>
-                <li class="cbp-item neurologist">
+                <li class="cbp-item lubricantes">
                   <a href="marcas/Uno.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
                       <img src="img/logos/Uno.jpg" alt="" width="100%">
