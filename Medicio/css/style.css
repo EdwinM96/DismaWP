@@ -312,7 +312,7 @@ Navigation
 }
 
 .navbar-custom.top-nav-collapse .nav.navbar-nav {
-    background-color: black;
+    background-color: rgba(0,0,0,0);
 }
 
 .navbar.navbar-custom {
@@ -760,7 +760,7 @@ hr.bold {
 }
 
 .intro-content {
-	
+	background: url(../img/dummy/bg1.jpg) no-repeat top center;
 	padding:200px 0 60px;
 }
 .intro-content.intro-nobg {
@@ -1225,9 +1225,17 @@ Testimonial
 }
 
 .company-social .social-facebook a i{background: #3873ae;}
-.company-social .social-youtube a i{background: #39CCCC;}
+.company-social .social-twitter a i{background: #62c6f8;}
+.company-social .social-dribble a i{background: #d74980;}
+.company-social .social-deviantart a i{background: #8da356;}
+.company-social .social-google a i {background: #000;}
+.company-social .social-vimeo a i {background: #51a6d3;}
 .company-social .social-facebook a:hover i {background: #4893ce;}
-.company-social .social-youtube a:hover i {background: #ff6666;}
+.company-social .social-twitter a:hover i {background: #82e6ff;}
+.company-social .social-dribble a:hover i {background: #f769a0;}
+.company-social .social-deviantart a:hover i {background: #adc376;}
+.company-social .social-google a:hover i {background: #333;}
+.company-social .social-vimeo a:hover i {background: #71c6f3;}
 
 
 .carousel-inner > .item {
@@ -1337,10 +1345,7 @@ footer .sub-footer  p {
 }	
 .icon-success {
 	color: #7db53b;
-}
-.icon.car{
-    color: #ff3333;
-}
+}	
 .icon-info {
 	color: #51b6bf;
 }	

@@ -13,12 +13,31 @@
         <servlet-name>Faces Servlet</servlet-name>
         <url-pattern>/faces/*</url-pattern>
     </servlet-mapping>
+    <!--Index Page!-->
+    <servlet>   
+        <servlet-name>index</servlet-name>
+        <jsp-file>/index.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>index</servlet-name>
+        <url-pattern>/Inicio</url-pattern>
+    </servlet-mapping>
+    <!--Marcas Page!-->
+    <servlet>   
+        <servlet-name>marcas</servlet-name>
+        <jsp-file>/marcas.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>marcas</servlet-name>
+        <url-pattern>/Marcas</url-pattern>
+    </servlet-mapping>
+    
     <session-config>
         <session-timeout>
             30
         </session-timeout>
     </session-config>
     <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>/index.jsp</welcome-file>
     </welcome-file-list>
 </web-app>

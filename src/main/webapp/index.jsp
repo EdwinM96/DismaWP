@@ -68,7 +68,14 @@
       .text-right a{
           background-color: black;
       }
-      
+      .carousel{
+          margin-top: 65px;
+      }
+
+
+      ol.carousel-indicators li.active {
+          background: #c52128;
+      }
   </style>
   
 </head>
@@ -105,17 +112,17 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#intro" style="">Inicio</a></li>
-                        <li><a href="#service" style="">Marcas</a></li>
+                        <li class="active"><a href="Inicio" style="">Inicio</a></li>
+                        <li><a href="Marcas" style="">Marcas</a></li>
                         <li><a href="#doctor">Productos</a></li>
                         <li><a href="#facilities">Acerca de Nosotros</a></li>
                         <li><a href="#pricing">Contactanos</a></li>
-                        <li class="dropdown">
+                       <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="index.jsp">Home CTA</a></li>
                                 <li><a href="index-form.jsp">Home Form</a></li>
-                                <li><a href="index-video.jsp">Home video</a></li>
+                                <li><a href="index-video.jsp">Home video</a></li>-->
                             </ul>
                         </li>
                     </ul>
@@ -126,10 +133,48 @@
         </nav>
 
         <!-- Section: intro -->
+         <div class="carrousel">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators">
+                                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#myCarousel" data-slide-to="1"></li>
+                                <li data-target="#myCarousel" data-slide-to="2"></li>
+                            </ol>
 
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <img src="media/castrol.jpg" alt="Los Angeles">
+                                </div>
+
+                                <div class="item">
+                                    <img src="media/castrol.jpg" alt="Chicago">
+                                </div>
+
+                                <div class="item" >
+                                    <img src="media/valvoline.jpg" alt="New York" >
+                                </div>
+                            </div>
+
+                            <!-- Left and right controls -->
+                            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
         <section id="intro" class="intro"> 
+            
+
+
             <div class="intro-content">
                 <div class="container">
+                   
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -156,67 +201,35 @@
                                     </p>
                                 </div>
                             </div>
-                         </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
+        
+        <!-- /Section: intro -->
 
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner">
-                <div class="item active">
-                    <img src="media/castrol.jpg" alt="Los Angeles">
-                </div>
-
-                <div class="item">
-                    <img src="media/castrol.jpg" alt="Chicago">
-                </div>
-
-                <div class="item" >
-                    <img src="media/valvoline.jpg" alt="New York" >
-                </div>
-            </div>
-
-            <!-- Left and right controls -->
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    <!-- /Section: intro -->
+        <!-- Section: boxes -->
+        <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1-------------------------------------------------
+        <section id="boxes" class="home-section paddingtop-80">
     
-    <!-- Section: boxes -->
-    <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1-------------------------------------------------
-    <section id="boxes" class="home-section paddingtop-80">
-
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-3 col-md-3">
-            <div class="wow fadeInUp" data-wow-delay="0.2s">
-              <div class="box text-center">
-
-                <i class="fa fa-check fa-3x circled bg-skin"></i>
-                <h4 class="h-bold">Make an appoinment</h4>
-                <p>
-                  Lorem ipsum dolor sit amet, nec te mollis utroque honestatis, ut utamur molestiae vix, graecis eligendi ne.
-                </p>
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-3 col-md-3">
+                <div class="wow fadeInUp" data-wow-delay="0.2s">
+                  <div class="box text-center">
+    
+                    <i class="fa fa-check fa-3x circled bg-skin"></i>
+                    <h4 class="h-bold">Make an appoinment</h4>
+                    <p>
+                      Lorem ipsum dolor sit amet, nec te mollis utroque honestatis, ut utamur molestiae vix, graecis eligendi ne.
+                    </p>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div class="col-sm-3 col-md-3">
-            <div class="wow fadeInUp" data-wow-delay="0.2s">
-              <div class="box text-center">
+              <div class="col-sm-3 col-md-3">
+                <div class="wow fadeInUp" data-wow-delay="0.2s">
+                  <div class="box text-center">
 
                 <i class="fa fa-list-alt fa-3x circled bg-skin"></i>
                 <h4 class="h-bold">Choose your package</h4>

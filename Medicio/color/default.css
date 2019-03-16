@@ -44,12 +44,12 @@ a:focus {
 /* menu */
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #3fbbc0;
+	color: black;
 }
 .navbar-custom.top-nav-collapse .nav li a:hover,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
-    color: #3fbbc0;
+    color: black;
 }
 
 
@@ -91,12 +91,8 @@ a:focus {
 
 .cbp-l-filters-alignLeft .cbp-filter-item-active {
     /* @editable properties */
-    background-color:#c52128;
+    background-color: #4ACCD1;
     border:1px solid #4ACCD1;
-}
-.cbp-filter-item:hover{
-    background-color:#e01821;
-    
 }
 
 .cbp-l-filters-dropdownWrap {
