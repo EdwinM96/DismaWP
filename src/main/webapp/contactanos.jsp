@@ -45,16 +45,16 @@
       .text-right .btn{
           background: #ff3333;
       }
-      .intro-content{
-          
-          
-      }
       .text-right a:hover{
           background-color: red;
       }
       .text-right a{
           background-color: black;
       }
+       #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
       
   </style>
     </head>
@@ -109,5 +109,52 @@
       </div>
       <!-- /.container -->
     </nav>
+      <section id="intro" class="intro">
+       <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+      <!--The div element for the map -->
+      <div id="map" style="margin-top:90px;"></div></div>
+      <div class="col-lg-6"></div>
+      
+      
+        </div>
+      </section>
+           
+           
+           
+           
+           
+           
+           
+           
+      <script>
+  // Initialize and add the map
+  function initMap() {
+    // The location of Uluru
+    var uluru = {lat: 13.713695, lng: -89.194843};
+    // The map, centered at Uluru
+    var map = new google.maps.Map(
+        document.getElementById('map'), {zoom: 17, center: uluru});
+    // The marker, positioned at Uluru
+    var marker = new google.maps.Marker({position: uluru, map: map});
+  }
+      </script>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0Jwcerd_qojiKw38qrjXenduSGagwuQQ&callback=initMap">
+    </script>
+      <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/jquery.appear.js"></script>
+  <script src="js/stellar.js"></script>
+  <script src="plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <script src="js/custom.js"></script>
     </body>
 </html>
