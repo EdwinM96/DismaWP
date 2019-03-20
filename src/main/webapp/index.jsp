@@ -105,7 +105,7 @@
                         <i class="fa fa-bars"></i>
                     </button>
                     <a class="navbar-brand" href="index.jsp">
-                        <!--<img src="media/" alt="" width="150" height="40" />-->
+                        <img src="img/logo.png" alt="" width="150" height="40" />
                     </a>
                 </div>
 
@@ -116,7 +116,7 @@
                         <li><a href="Marcas" style="">Marcas</a></li>
                         <li><a href="#doctor">Productos</a></li>
                         <li><a href="#facilities">Acerca de Nosotros</a></li>
-                        <li><a href="#pricing">Contactanos</a></li>
+                        <li><a href="Contactanos">Contactanos</a></li>
                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
                             <ul class="dropdown-menu">

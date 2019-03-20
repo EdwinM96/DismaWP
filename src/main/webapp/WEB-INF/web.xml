@@ -31,6 +31,15 @@
         <servlet-name>marcas</servlet-name>
         <url-pattern>/Marcas</url-pattern>
     </servlet-mapping>
+    <!--Contactanos Page!-->
+    <servlet>   
+        <servlet-name>contactanos</servlet-name>
+        <jsp-file>/contactanos.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>contactanos</servlet-name>
+        <url-pattern>/Contactanos</url-pattern>
+    </servlet-mapping>
     
     <session-config>
         <session-timeout>
