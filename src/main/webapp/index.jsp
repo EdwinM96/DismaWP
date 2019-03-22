@@ -19,7 +19,7 @@
 
   <!-- css -->
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
   <link href="css/nivo-lightbox.css" rel="stylesheet" />
   <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
@@ -227,7 +227,7 @@
                 </div>
                 <div class="service-desc">
                   <h5 class="h-light">Atención Personalizada</h5>
-                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                  <p>Vestibulum tincidunt </p>
                 </div>
               </div>
             </div>
@@ -238,7 +238,7 @@
                   <span class="fas fa-toolbox fa-3x"></span>
                 </div>
                 <div class="service-desc">
-                  <h5 class="h-light">Nursing Services</h5>
+                  <h5 class="h-light">Servicios</h5>
                   <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
                 </div>
               </div>
@@ -249,7 +249,7 @@
                   <span class="fas fa-wrench fa-3x"></span>
                 </div>
                 <div class="service-desc">
-                  <h5 class="h-light">Pharmacy</h5>
+                  <h5 class="h-light">y Mucho Más</h5>
                   <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
                 </div>
               </div>
@@ -265,8 +265,8 @@
                   <span class="fas fa-truck-pickup fa-3x"></span>
                 </div>
                 <div class="service-desc">
-                  <h5 class="h-light">Gyn Care</h5>
-                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                  <h5 class="h-light">Repuestos Japoneses</h5>
+                  <p>Vestibulum tincidunt  </p>
                 </div>
               </div>
             </div>
@@ -277,8 +277,8 @@
                   <span class="fas fa-car-alt fa-3x"></span>
                 </div>
                 <div class="service-desc">
-                  <h5 class="h-light">Neurology</h5>
-                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                  <h5 class="h-light">Repuestos Koreanos</h5>
+                  <p>Vestibulum tincidunt enim </p>
                 </div>
               </div>
             </div>
@@ -288,8 +288,8 @@
                   <span class="fa fa-car fa-3x"></span>
                 </div>
                 <div class="service-desc">
-                  <h5 class="h-light">Sleep Center</h5>
-                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                  <h5 class="h-light">Repuestos de USA</h5>
+                  <p>Vestibulum t</p>
                 </div>
               </div>
             </div>
@@ -316,7 +316,7 @@
                         <li>
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-calendar-o fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-calendar-alt fa-stack-1x fa-inverse"></i>
                             </span> Lunes - Viernes, 8AM to 5:30PM
                             | Sabados, 8AM-12PM
                         </li>
@@ -329,7 +329,7 @@
                         <li>
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
                             </span> sucursal29@dismatel.net
                         </li>
 
@@ -348,8 +348,8 @@
                         <div class="widget">
                             <h5>Siguenos en redes sociales</h5>
                             <ul class="company-social">
-                                <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li class="social-youtube"><a href="#"><i class="fa fa-youtube" style="background:red;"></i></a></li>
+                                <li class="social-facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="social-youtube"><a href="#"><i class="fab fa-youtube"></i></i></a></li>
 
                             </ul>
                         </div>
