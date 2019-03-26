@@ -117,26 +117,23 @@
             <div class="col-lg-7">
                 <!--The div element for the map -->
                 <div id="map" style="margin-top:90px;"></div></div>
-            <div class="col-lg-5" style="">
+            <div class="col-lg-5" style="" style="margin-top:0px;">
 
-                <div class="container2">  
+                <div class="container2" style="margin-top:0px;">  
                     <form id="contact" action="" method="post">
-                        <h3>Colorlib Contact Form</h3>
-                        <h4>Contact us for custom quote</h4>
+                        <h3>Contacto Disma Autorespuestos</h3>
+                        <h4>Cotiza tus repuestos</h4>
                         <fieldset>
-                            <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+                            <input placeholder="Nombre" type="text" tabindex="1" required autofocus>
                         </fieldset>
                         <fieldset>
-                            <input placeholder="Your Email Address" type="email" tabindex="2" required>
+                            <input placeholder="Correo" type="email" tabindex="2" required>
                         </fieldset>
                         <fieldset>
-                            <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required>
+                            <input placeholder="Teléfono" type="tel" tabindex="3" required>
                         </fieldset>
                         <fieldset>
-                            <input placeholder="Your Web Site (optional)" type="url" tabindex="4" required>
-                        </fieldset>
-                        <fieldset>
-                            <textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+                            <textarea placeholder="Su mensaje..." tabindex="5" required></textarea>
                         </fieldset>
                         <fieldset>
                             <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
