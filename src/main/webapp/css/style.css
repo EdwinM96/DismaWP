@@ -1225,7 +1225,7 @@ Testimonial
 }
 
 .company-social .social-facebook a i{background: #3873ae;}
-.company-social .social-youtube a i{background: #39CCCC;}
+.company-social .social-youtube a i{background: red;}
 .company-social .social-facebook a:hover i {background: #4893ce;}
 .company-social .social-youtube a:hover i {background: #ff6666;}
 
