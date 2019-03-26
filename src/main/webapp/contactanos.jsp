@@ -13,7 +13,7 @@
         <title>Disma Autorepuestos | Contactanos</title>
         <!-- css -->
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
   <link href="css/nivo-lightbox.css" rel="stylesheet" />
   <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
@@ -107,37 +107,88 @@
         </div>
         <!-- /.navbar-collapse -->
       </div>
-      <!-- /.container -->
-    </nav>
-      <section id="intro" class="intro">
-       <div class="container">
+  </div>
+  <!-- /.container -->
+</nav>
+<section id="intro" class="intro">
+
+    <div class="container">
         <div class="row">
             <div class="col-lg-7">
-      <!--The div element for the map -->
-      <div id="map" style="margin-top:90px;"></div></div>
-      <div class="col-lg-6"></div>
-      
-      
+                <!--The div element for the map -->
+                <div id="map" style="margin-top:90px;"></div></div>
+            <div class="col-lg-5" style="">
+
+                <div class="container2">  
+                    <form id="contact" action="" method="post">
+                        <h3>Colorlib Contact Form</h3>
+                        <h4>Contact us for custom quote</h4>
+                        <fieldset>
+                            <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+                        </fieldset>
+                        <fieldset>
+                            <input placeholder="Your Email Address" type="email" tabindex="2" required>
+                        </fieldset>
+                        <fieldset>
+                            <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required>
+                        </fieldset>
+                        <fieldset>
+                            <input placeholder="Your Web Site (optional)" type="url" tabindex="4" required>
+                        </fieldset>
+                        <fieldset>
+                            <textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+                        </fieldset>
+                        <fieldset>
+                            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+                        </fieldset>
+
+                    </form>
+                </div>
+            </div>
         </div>
-       </div>
-      </section>
-           
-           
-           
-           
-           
-           
-           
+
+
+    </div>
+</div>
+</section>
+
+
+
+<!--Footer-->
+<div class="sub-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="wow fadeInLeft" data-wow-delay="0.1s">
+                    <div class="text-left">
+                        <p>&copy;Copyright - Disma AutoRepuestos S.A de C.V 2019</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="wow fadeInRight" data-wow-delay="0.1s">
+                    <div class="text-right">
+                        <div class="credits">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+          </div>
+      </div>
+
+
            
       <script>
   // Initialize and add the map
   function initMap() {
-    // The location of Uluru
-    var uluru = {lat: 13.713695, lng: -89.194843};
-    // The map, centered at Uluru
+    // The location of Disma
+    var disma = {lat: 13.713695, lng: -89.194843};
+    // The map, centered at Disma
     var map = new google.maps.Map(
-        document.getElementById('map'), {zoom: 17, center: uluru});
-    // The marker, positioned at Uluru
+        document.getElementById('map'), {zoom: 18, center: disma});
+    // The marker, positioned at Disma
     var marker = new google.maps.Marker({position: uluru, map: map});
   }
       </script>
