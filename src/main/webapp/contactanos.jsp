@@ -119,7 +119,7 @@
                 <div id="map" style="margin-top:90px;"></div></div>
             <div class="col-lg-5" style="" style="margin-top:0px;">
 
-                <div class="container2" style="margin-top:0px;">  
+                <div class="container2" >  
                     <form id="contact" action="" method="post">
                         <h3>Contacto Disma Autorespuestos</h3>
                         <h4>Cotiza tus repuestos</h4>
@@ -136,7 +136,7 @@
                             <textarea placeholder="Su mensaje..." tabindex="5" required></textarea>
                         </fieldset>
                         <fieldset>
-                            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+                            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Enviar</button>
                         </fieldset>
 
                     </form>
