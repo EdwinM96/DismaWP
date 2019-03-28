@@ -93,7 +93,7 @@
             <li><a href="Inicio" style="">Inicio</a></li>
             <li class="active"><a href="Marcas" style="">Marcas</a></li>
             <li><a href="#productos">Productos</a></li>
-            <li><a href="#acercade">Acerca de Nosotros</a></li>
+            <li><a href="AcerdaDe">Acerca de Nosotros</a></li>
             <li><a href="Contactanos">Contactanos</a></li>
             <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
@@ -228,8 +228,8 @@
                       </div>
                     </div>
                   </a>
-                  <a href="marcas/Tokico.html" class="cbp-singlePage cbp-l-grid-team-name">Uno</a>
-                  <div class="cbp-l-grid-team-position">Lubricante</div>
+                  <a href="marcas/Tokico.html" class="cbp-singlePage cbp-l-grid-team-name">Tokico</a>
+                  <div class="cbp-l-grid-team-position">Amortiguadores</div>
                 </li>
                 <!--------------6------------->
                 <li class="cbp-item lubricantes">

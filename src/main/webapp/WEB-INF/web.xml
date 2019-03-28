@@ -40,6 +40,15 @@
         <servlet-name>contactanos</servlet-name>
         <url-pattern>/Contactanos</url-pattern>
     </servlet-mapping>
+    <!--Contactanos Page!-->
+    <servlet>   
+        <servlet-name>acercaDe</servlet-name>
+        <jsp-file>/acercaDe.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>acercaDe</servlet-name>
+        <url-pattern>/AcercaDe</url-pattern>
+    </servlet-mapping>
     
     <session-config>
         <session-timeout>

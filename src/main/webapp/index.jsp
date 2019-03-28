@@ -115,8 +115,8 @@
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="Inicio" style="">Inicio</a></li>
                         <li><a href="Marcas" style="">Marcas</a></li>
-                        <li><a href="#doctor">Productos</a></li>
-                        <li><a href="#facilities">Acerca de Nosotros</a></li>
+                        <li><a href="#Productos">Productos</a></li>
+                        <li><a href="AcercaDe">Acerca de Nosotros</a></li>
                         <li><a href="Contactanos">Contactanos</a></li>
                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
@@ -193,12 +193,12 @@
                                 <div class="wow fadeInRight" data-wow-delay="0.1s">
 
                                     <ul class="lead-list">
-                                        <li><span class="fa fa-circle-o fa-2x icon-success"></span> <span class="list"><strong>En repuestos # 1</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
-                                        <li><span class="fa fa-circle-o fa-2x icon-success"></span> <span class="list"><strong>Tenemos personal capacitado</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
-                                        <li><span class="fa fa-circle-o fa-2x icon-success"></span> <span class="list"><strong>Solo dinos lo que necesitas</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
+                                        <li><span class="fas fa-angle-right fa-3x icon-success"></span> <span class="list"><strong>En repuestos # 1</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
+                                        <li><span class="fas fa-angle-right fa-3x icon-success"></span> <span class="list"><strong>Tenemos personal capacitado</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
+                                        <li><span class="fas fa-angle-right fa-3x icon-success"></span> <span class="list"><strong>Solo dinos lo que necesitas</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
                                     </ul>
                                     <p class="text-right wow bounceIn" data-wow-delay="0.4s">
-                                        <a href="Contactanos" class="btn btn-skin btn-lg">Recibe Promociones <i class="fa fa-angle-right"></i></a>
+                                        <a href="Marcas" class="btn btn-skin btn-lg">Ver Marcas <i class="fa fa-angle-right"></i></a>
                                     </p>
                                 </div>
                             </div>

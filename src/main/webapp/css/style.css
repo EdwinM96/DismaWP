@@ -236,9 +236,9 @@ Top area
     -moz-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
 	width: 100%;
-	color: #fff;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	color: #c52128;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .top-area.top-padding {
