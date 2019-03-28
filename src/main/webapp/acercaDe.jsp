@@ -111,6 +111,7 @@
             </div>
             <!-- /.container -->
         </nav>
+        </div>
     <section id="doctor" class="home-section bg-gray paddingbot-60">
 
         <div class="container">
