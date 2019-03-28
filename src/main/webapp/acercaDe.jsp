@@ -1,38 +1,45 @@
 <%-- 
-    Document   : AcercaDe
-    Created on : 03-28-2019, 10:07:40 AM
+    Document   : index
+    Created on : 03-08-2019, 11:06:11 AM
     Author     : Edwin
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Disma AutoRepuestos|Acerca de Nosotros</title>
-        <!-- css -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
-        <link href="css/nivo-lightbox.css" rel="stylesheet" />
-        <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
-        <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
-        <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
-        <link href="css/animate.css" rel="stylesheet" />
-        <link href="css/style.css" rel="stylesheet">
+<!DOCTYPE html>
+<html lang="en">
 
-        <link id="bodybg" href="bodybg/bg1.css" rel="stylesheet" type="text/css" />
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-        <link id="t-colors" href="color/default.css" rel="stylesheet">
+  <title>Disma AutoRepuestos | Las Mejores Marcas</title>
 
-        <!-- slider! -->
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  <!-- css -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet">
 
+  <link id="bodybg" href="bodybg/bg1.css" rel="stylesheet" type="text/css" />
 
-        <style>
-            .navbar .navigation{
+  <link id="t-colors" href="color/default.css" rel="stylesheet">
+  
+  <!-- slider! -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  
+  
+  <style>
+      .navbar .navigation{
           background-color: black;
           color: black;
       }
@@ -69,9 +76,12 @@
       ol.carousel-indicators li.active {
           background: #c52128;
       }
-      </style>
-    </head>
-    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+  </style>
+  
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
 
     <div id="wrapper">
@@ -122,7 +132,8 @@
             </div>
             <!-- /.container -->
         </nav>
-    <!--<section id="doctor" class="home-section bg-gray paddingbot-60">
+
+        <section id="doctor" class="home-section bg-gray paddingbot-60">
 
         <div class="container">
             <div class="row">
@@ -147,30 +158,36 @@
         </div>
 
     </section>
-
-    <div class="sub-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                    <div class="wow fadeInLeft" data-wow-delay="0.1s">
-                        <div class="text-left">
-                            <p>&copy;Copyright - Disma AutoRepuestos S.A de C.V 2019</p>
+        <div class="sub-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="wow fadeInLeft" data-wow-delay="0.1s">
+                            <div class="text-left">
+                                <p>&copy;Copyright - Disma AutoRepuestos S.A de C.V 2019</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                    <div class="wow fadeInRight" data-wow-delay="0.1s">
-                        <div class="text-right">
-                            <div class="credits">
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="wow fadeInRight" data-wow-delay="0.1s">
+                            <div class="text-right">
+                                <div class="credits">
 
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>-->
+
+
+        </div>
+    </footer>
+
     </div>
-        <!-- Core JavaScript Files -->
+    <!-- Scroll up<a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>-->
+
+    <!-- Core JavaScript Files -->
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -182,5 +199,8 @@
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/nivo-lightbox.min.js"></script>
     <script src="js/custom.js"></script>
+
 </body>
+
 </html>
+
