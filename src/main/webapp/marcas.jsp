@@ -249,7 +249,7 @@
                   <div class="cbp-l-grid-team-position">Lubricante</div>
                 </li>
 
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
