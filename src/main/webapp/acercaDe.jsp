@@ -33,32 +33,43 @@
 
         <style>
             .navbar .navigation{
-                background-color: black;
-                color: black;
-            }
-            .navbar .navigation a:hover{
-                color:white !important;
-            }
-            .collapse ul li:hover{
-                background: #ff3333;
-            }
-            .collapse .nav a{
-                color:  #ccccff !important;
-            }
-            .collapse .nav a:hover{
-                color:white !important;
-            }
-            .text-right .btn{
-                background: red;
-            }
-            .text-right a:hover{
-                background-color: black;
-            }
-            .text-right a{
-                background-color: black;
-            }
+          background-color: black;
+          color: black;
+      }
+      .navbar .navigation a:hover{
+          color:white !important;
+      }
+      .collapse ul li:hover{
+          background: #ff3333;
+      }
+      .collapse .nav a{
+          color:  #ccccff !important;
+      }
+      .collapse .nav a:hover{
+          color:white !important;
+      }
+      .text-right .btn{
+          background: red;
+      }
+      .intro-content{
+          
+          
+      }
+      .text-right a:hover{
+          background-color: black;
+      }
+      .text-right a{
+          background-color: black;
+      }
+      .carousel{
+          margin-top: 65px;
+      }
 
-        </style>
+
+      ol.carousel-indicators li.active {
+          background: #c52128;
+      }
+      </style>
     </head>
     <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
