@@ -108,7 +108,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 article-container">
-                    <article style="padding-right:0px" class="shadow">
+                    <article style="padding-right:10px" class="shadow">
                         <h1>Nuestra <span style="color:#c52128">M</span>ision</h1>
                         <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de repuestos de alta calidad y los mejores precios del mercado.</p>
                     </article>
@@ -118,7 +118,7 @@
             <div class="row">
                 <div class="col-md-4 photo-container"></div>
                 <div class="col-md-8 article-container cbp-animation-bounceLeft" >
-                    <article style="text-align: right; padding-right: 0px" class="shadow">
+                    <article style="text-align: right; padding-right:10px; padding-left: 50px" class="shadow">
                         <h1 style="text-align: right;">Nuestra <span style="color:#c52128;">V</span>ision</h1>
                         <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de repuestos de alta calidad y los mejores precios del mercado.</p>
                     </article>
