@@ -198,7 +198,7 @@
                                         <li><span class="fa fa-circle-o fa-2x icon-success"></span> <span class="list"><strong>Solo dinos lo que necesitas</strong><br />Lorem ipsum dolor sit amet, in verterem persecuti vix, sit te meis</span></li>
                                     </ul>
                                     <p class="text-right wow bounceIn" data-wow-delay="0.4s">
-                                        <a href="contactanos" class="btn btn-skin btn-lg">Recibe Promociones <i class="fa fa-angle-right"></i></a>
+                                        <a href="Contactanos" class="btn btn-skin btn-lg">Recibe Promociones <i class="fa fa-angle-right"></i></a>
                                     </p>
                                 </div>
                             </div>

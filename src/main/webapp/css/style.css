@@ -760,7 +760,7 @@ hr.bold {
 }
 
 .intro-content {
-	background: url(../img/media/fachada.png) no-repeat top center;
+	background: url(../IMAGENES/fachada.png) no-repeat top center;
 	padding:200px 0 60px;
 }
 .intro-content.intro-nobg {
@@ -1073,7 +1073,7 @@ Elements
 }
 .cbp-popup-singlePage .cbp-l-member-name {
     /* @editable properties */
-    font: bold 16px/16px "Open Sans", sans-serif;
+    font: bold 30px/30px "Open Sans", sans-serif;
     margin-bottom: 6px;
 }
 .cbp-popup-singlePage .cbp-l-member-position {
@@ -1993,22 +1993,19 @@ a.btn:focus{
 #contact {
   background: #F9F9F9;
   padding: 25px;
-  margin-top: 90px;
- 
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
 
 #contact h3 {
   display: block;
-  font-size: 30px;
-  font-weight: 300;
+  font-size: 26px;
   margin-bottom: 10px;
 }
 
 #contact h4 {
   margin: 5px 0 15px;
   display: block;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 400;
 }
 

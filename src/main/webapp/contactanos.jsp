@@ -110,19 +110,19 @@
   </div>
   <!-- /.container -->
 </nav>
-<section id="intro" class="intro">
+<section id="doctor" class="home-section bg-gray paddingbot-60">
 
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
                 <!--The div element for the map -->
-                <div id="map" style="margin-top:90px;"></div></div>
+                <div id="map" ></div></div>
             <div class="col-lg-5" style="" style="margin-top:0px;">
 
                 <div class="container2" >  
                     <form id="contact" action="" method="post">
-                        <h3>Contacto Disma Autorespuestos</h3>
-                        <h4>Cotiza tus repuestos</h4>
+                        <h3>Contactanos y Cotiza</h3>
+                        <h4>Describe tu repuesto o tu duda</h4>
                         <fieldset>
                             <input placeholder="Nombre" type="text" tabindex="1" required autofocus>
                         </fieldset>

@@ -132,20 +132,25 @@
             <div id="filters-container" class="cbp-l-filters-alignLeft">
               <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">Todos (
                 <div class="cbp-filter-counter"></div>)</div>
-              <div data-filter=".frenos" class="cbp-filter-item">Frenos (
+              <div data-filter=".suspension" class="cbp-filter-item">Suspension (
+                <div class="cbp-filter-counter"></div>)</div>
+              <div data-filter=".discosDeClutch" class="cbp-filter-item">Discos de Clutch (
                 <div class="cbp-filter-counter"></div>)</div>
               <div data-filter=".amortiguadores" class="cbp-filter-item">Amortiguadores (
                 <div class="cbp-filter-counter"></div>)</div>
-              <div data-filter=".lubricantes" class="cbp-filter-item">Lubricantes (
+                <div data-filter=".rodamiento" class="cbp-filter-item">Rodamiento (
+                <div class="cbp-filter-counter"></div>)</div>
+                <div data-filter=".lubricantes" class="cbp-filter-item">Lubricantes (
                 <div class="cbp-filter-counter"></div>)</div>
             </div>
 
             <div id="grid-container" class="cbp-l-grid-team">
               <ul>
-                <li class="cbp-item frenos">
-                  <a href="marcas/NYB.html" class="cbp-caption cbp-singlePage">
+                  <!--------------1------------->
+                <li class="cbp-item suspension">
+                  <a href="marcas/555.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap" style="text-align:center;">
-                      <img src="img/logos/NYB.png" alt="" width="100%">
+                      <img src="img/logos/555.png" alt="" width="100%">
                     </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
@@ -155,13 +160,49 @@
                       </div>
                     </div>
                   </a>
-                  <a href="marcas/NYB.html" class="cbp-singlePage cbp-l-grid-team-name">NYBrake</a>
-                  <div class="cbp-l-grid-team-position">Frenos</div>
+                  <a href="marcas/555.html" class="cbp-singlePage cbp-l-grid-team-name">555</a>
+                  <div class="cbp-l-grid-team-position">Suspensiones</div>
                 </li>
+                
+                <!--------------2------------->
+                <li class="cbp-item discosDeClutch">
+                  <a href="marcas/Exedy.html" class="cbp-caption cbp-singlePage">
+                    <div class="cbp-caption-defaultWrap">
+                      <img src="img/logos/exedy.png" alt="" width="100%">
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                      <div class="cbp-l-caption-alignCenter">
+                        <div class="cbp-l-caption-body">
+                          <div class="cbp-l-caption-text">Ver</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="marcas/Exedy.html" class="cbp-singlePage cbp-l-grid-team-name">Exedy</a>
+                  <div class="cbp-l-grid-team-position">Discos de Clutch</div>
+                </li>
+                <!--------------3---------->
+                <li class="cbp-item rodamiento">
+                  <a href="marcas/Koyo.html" class="cbp-caption cbp-singlePage">
+                    <div class="cbp-caption-defaultWrap">
+                      <img src="img/logos/koyo.png" alt="" width="100%">
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                      <div class="cbp-l-caption-alignCenter">
+                        <div class="cbp-l-caption-body">
+                          <div class="cbp-l-caption-text">Ver</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="marcas/Koyo.html" class="cbp-singlePage cbp-l-grid-team-name">Koyo</a>
+                  <div class="cbp-l-grid-team-position">Rodamiento</div>
+                </li>
+                <!--------------4---------->
                 <li class="cbp-item amortiguadores">
                   <a href="marcas/KYB.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
-                      <img src="img/productos/KYB.jpg" alt="" width="100%">
+                      <img src="img/logos/kyb.png" alt="" width="100%">
                     </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
@@ -173,11 +214,11 @@
                   </a>
                   <a href="marcas/KYB.html" class="cbp-singlePage cbp-l-grid-team-name">KYB</a>
                   <div class="cbp-l-grid-team-position">Amortiguadores</div>
-                </li>
-                <li class="cbp-item lubricantes">
-                  <a href="marcas/Castrol.html" class="cbp-caption cbp-singlePage">
+                  <!--------------5------------>
+                  <li class="cbp-item amortiguadores">
+                  <a href="marcas/Tokico.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
-                      <img src="img/logos/Castrol.png" alt="" width="100%">
+                      <img src="img/logos/tokico.png" alt="" width="100%">
                     </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
@@ -187,13 +228,14 @@
                       </div>
                     </div>
                   </a>
-                  <a href="marcas/Castrol.html" class="cbp-singlePage cbp-l-grid-team-name">Castrol</a>
+                  <a href="marcas/Tokico.html" class="cbp-singlePage cbp-l-grid-team-name">Uno</a>
                   <div class="cbp-l-grid-team-position">Lubricante</div>
                 </li>
+                <!--------------6------------->
                 <li class="cbp-item lubricantes">
-                  <a href="marcas/Uno.html" class="cbp-caption cbp-singlePage">
+                  <a href="marcas/Valvoline.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
-                      <img src="img/logos/Uno.jpg" alt="" width="100%">
+                      <img src="img/logos/valvoline.png" alt="" width="100%">
                     </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
@@ -203,7 +245,7 @@
                       </div>
                     </div>
                   </a>
-                  <a href="marcas/Uno.html" class="cbp-singlePage cbp-l-grid-team-name">Uno</a>
+                  <a href="marcas/Valvoline.html" class="cbp-singlePage cbp-l-grid-team-name">Uno</a>
                   <div class="cbp-l-grid-team-position">Lubricante</div>
                 </li>
 
