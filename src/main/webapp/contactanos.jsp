@@ -93,7 +93,7 @@
             <li><a href="Inicio" style="">Inicio</a></li>
             <li><a href="Marcas" style="">Marcas</a></li>
             <li><a href="#productos">Productos</a></li>
-            <li><a href="#acercade">Acerca de Nosotros</a></li>
+            <li><a href="AcercaDe">Acerca de Nosotros</a></li>
             <li class="active"><a href="Contactanos">Contactanos</a></li>
             <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>

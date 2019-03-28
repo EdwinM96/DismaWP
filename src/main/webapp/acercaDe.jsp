@@ -100,8 +100,23 @@
             <div class="top-area">
               </div>
             </div>
-            </div>
+            
             <!-- /.container -->
         </nav>
+        <section id="doctor" class="home-section bg-gray paddingbot-60">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 article-container">
+                            <article>
+                                <h1>Nuestra mision</h1>
+                                <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de repuestos de alta calidad y los mejores precios del mercado.</p>
+                            </article>
+                        </div>    
+                    </div>
+
+                </div>
+
+        </section>
     </body>
 </html>
