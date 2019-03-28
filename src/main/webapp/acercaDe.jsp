@@ -97,8 +97,8 @@
                     </div>
                     <!-- /.navbar-collapse -->
                 </div>
-                <div class="top-area">
-                </div>
+                <!--<div class="top-area">
+                </div>-->
         </div>
 
         <!-- /.container -->
@@ -107,20 +107,20 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-8 article-container">
+                <div class="col-md-8 article-container animated bounceInLeft">
                     <article style="padding-right:10px" class="shadow">
-                        <h1>Nuestra <span style="color:#c52128">M</span>ision</h1>
-                        <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de repuestos de alta calidad y los mejores precios del mercado.</p>
+                        <h1>Nuestra <span style="color:#c52128">M</span>isión</h1>
+                        <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de las mejores marcas de repuestos y los mejores precios del mercado.</p>
                     </article>
                 </div>
                 <div class="col-md-4 photo-container"></div>
             </div>
             <div class="row">
                 <div class="col-md-4 photo-container"></div>
-                <div class="col-md-8 article-container cbp-animation-bounceLeft" >
-                    <article style="text-align: right; padding-right:10px; padding-left: 50px" class="shadow">
-                        <h1 style="text-align: right;">Nuestra <span style="color:#c52128;">V</span>ision</h1>
-                        <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de repuestos de alta calidad y los mejores precios del mercado.</p>
+                <div class="col-md-8 article-container animated bounceInRight" >
+                    <article style="text-align: right; padding-right:0px; padding-right: 50px !important;" class="shadow">
+                        <h1 style="text-align: right; padding-left: ">Nuestra <span style="color:#c52128;">V</span>isión</h1>
+                        <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de las mejores marcas de repuestos y los mejores precios del mercado.</p>
                     </article>
                 </div> 
             </div>
@@ -150,5 +150,17 @@
                 </div>
             </div>
         </div>
+        <!-- Core JavaScript Files -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/jquery.scrollTo.js"></script>
+    <script src="js/jquery.appear.js"></script>
+    <script src="js/stellar.js"></script>
+    <script src="plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/nivo-lightbox.min.js"></script>
+    <script src="js/custom.js"></script>
 </body>
 </html>
