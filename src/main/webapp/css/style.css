@@ -421,9 +421,12 @@ Navigation
 
 /*articles*/
  .article-container article{
-    background-color: #808080;
+    background-color: #D3D3D3;
+    padding: 50px;
 }
-
+.article-container h1{
+    
+}
 /* form */
 
 .validation {
