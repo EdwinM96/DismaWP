@@ -103,10 +103,10 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="Inicio" style="">Inicio</a></li>
+                        <li><a href="Inicio" style="">Inicio</a></li>
                         <li><a href="Marcas" style="">Marcas</a></li>
                         <li><a href="#Productos">Productos</a></li>
-                        <li><a href="AcercaDe">Acerca de Nosotros</a></li>
+                        <li class="active"><a href="AcercaDe">Acerca de Nosotros</a></li>
                         <li><a href="Contactanos">Contactanos</a></li>
                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
@@ -123,7 +123,7 @@
             <!-- /.container -->
         </nav>
         </div>
-    <!--<section id="doctor" class="home-section bg-gray paddingbot-60">
+    <section id="doctor" class="home-section bg-gray paddingbot-60">
 
         <div class="container">
             <div class="row">
@@ -147,7 +147,7 @@
 
         </div>
 
-    </section>-->
+    </section>
 
     <div class="sub-footer">
         <div class="container">
