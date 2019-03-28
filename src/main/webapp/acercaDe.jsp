@@ -112,7 +112,7 @@
             <!-- /.container -->
         </nav>
         </div>
-    <section id="doctor" class="home-section bg-gray paddingbot-60">
+    <!--<section id="doctor" class="home-section bg-gray paddingbot-60">
 
         <div class="container">
             <div class="row">
@@ -136,7 +136,7 @@
 
         </div>
 
-    </section>
+    </section>-->
 
     <div class="sub-footer">
         <div class="container">
