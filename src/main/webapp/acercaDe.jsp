@@ -74,9 +74,9 @@
     <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
 
-        <div id="wrapper">
+    <div id="wrapper">
 
-            <nav class="navbar navbar-custom navbar-fixed-top" role="navigation" style="background-color:black ;">
+        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation" style="background-color:black ;">
             <!--<div class="top-area">
               <div class="container">
                 <div class="row">
@@ -103,10 +103,10 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="Inicio" style="">Inicio</a></li>
+                        <li class="active"><a href="Inicio" style="">Inicio</a></li>
                         <li><a href="Marcas" style="">Marcas</a></li>
                         <li><a href="#Productos">Productos</a></li>
-                        <li class="active"><a href="AcercaDe">Acerca de Nosotros</a></li>
+                        <li><a href="AcercaDe">Acerca de Nosotros</a></li>
                         <li><a href="Contactanos">Contactanos</a></li>
                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
@@ -122,7 +122,6 @@
             </div>
             <!-- /.container -->
         </nav>
-        </div>
     <!--<section id="doctor" class="home-section bg-gray paddingbot-60">
 
         <div class="container">
@@ -170,6 +169,7 @@
                 </div>
             </div>
         </div>-->
+    </div>
         <!-- Core JavaScript Files -->
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
