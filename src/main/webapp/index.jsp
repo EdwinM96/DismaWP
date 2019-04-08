@@ -183,12 +183,14 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
-                                <h2 class="h-ultra">Encuentra los mejores precios del mercado</h2>
+                            <div class="panel panel-default text-center" style="">
+                            <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s" style="padding-top:10px">
+                                <h2 class="h-ultra"><span >Encuentra los mejores precios</span></h2>
                             </div>
-                            <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.1s">
-                                <h4 class="h-light">Las mejores marcas y la mejor calidad</h4>
+                            <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.1s" style="" >
+                                <h4 class="h-light"><span style="color:#c52128">Las mejores marcas y la mejor calidad</span></h4>
                             </div>
+                                </div>
                             <div class="well well-trans">
                                 <div class="wow fadeInRight" data-wow-delay="0.1s">
 

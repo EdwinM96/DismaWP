@@ -113,10 +113,10 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="Inicio" style="">Inicio</a></li>
+                        <li><a href="Inicio" style="">Inicio</a></li>
                         <li><a href="Marcas" style="">Marcas</a></li>
                         <li><a href="#Productos">Productos</a></li>
-                        <li><a href="AcercaDe">Acerca de Nosotros</a></li>
+                        <li  class="active"><a href="AcercaDe">Acerca de Nosotros</a></li>
                         <li><a href="Contactanos">Contactanos</a></li>
                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
@@ -138,7 +138,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 article-container animated bounceInLeft">
-                    <article style="padding-right:10px" class="shadow">
+                    <article style="padding-right:10px" class="shadow2">
                         <h1>Nuestra <span style="color:#c52128">M</span>isión</h1>
                         <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de las mejores marcas de repuestos y los mejores precios del mercado.</p>
                     </article>
@@ -148,13 +148,22 @@
             <div class="row">
                 <div class="col-md-4 photo-container"></div>
                 <div class="col-md-8 article-container animated bounceInRight" >
-                    <article style="text-align: right; padding-right:0px; padding-right: 50px !important;" class="shadow">
+                    <article style="text-align: right; padding-right:0px; padding-right: 50px !important;" class="shadow2">
                         <h1 style="text-align: right; padding-left: ">Nuestra <span style="color:#c52128;">V</span>isión</h1>
                         <p>Desde el primer día nuestra mision ha sido el entregar servicios de calidad a nuestros clientes, por medio de las mejores marcas de repuestos y los mejores precios del mercado.</p>
                     </article>
                 </div> 
             </div>
-
+            <div class="row">
+                <div class="col-md-8 article-container animated bounceInLeft">
+                    <article style="padding-right:10px" class="shadow2">
+                        <h1>Nuestra <span style="color:#c52128">H</span>istoria</h1>
+                        <p>Siempre nos ha apacionado la calidad y el servicio, y desde el inicio eso es lo que ha empujado a Disma Autorepuesto y es nuestra motivación de cada día. El servite cada día mejor es nuestro cometido.</p>
+                    </article>
+                </div>
+                <div class="col-md-4 photo-container"></div>
+            </div>
+            
         </div>
 
     </section>

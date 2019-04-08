@@ -1515,7 +1515,7 @@ a.scrollup i:hover {
 	-webkit-box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
 	box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
 }
-.shadow {
+.shadow2 {
    -moz-box-shadow:    inset 0 0 10px #000000;
    -webkit-box-shadow: inset 0 0 10px #000000;
    box-shadow:         inset 0 0 10px #000000;
@@ -2125,6 +2125,9 @@ fieldset {
         .container2{
             margin-top:40px;
             
+        }
+        .article-container{
+            padding:30px;
         }
 
 }
