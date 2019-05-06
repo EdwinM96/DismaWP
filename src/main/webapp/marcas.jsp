@@ -63,19 +63,7 @@
 
   <div id="wrapper">
 
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation" style="background-color:black ;">
-      <!--<div class="top-area">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-6 col-md-6">
-              <p class="bold text-left">Monday - Saturday, 8am to 10pm </p>
-            </div>
-            <div class="col-sm-6 col-md-6">
-              <p class="bold text-right">Call us now +62 008 65 001</p>
-            </div>
-          </div>
-        </div>
-      </div>-->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation" style="background-color:black ;">s
       <div class="container navigation">
 
         <div class="navbar-header page-scroll">
@@ -87,7 +75,7 @@
                 </a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
+
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
           <ul class="nav navbar-nav">
             <li><a href="Inicio" style="">Inicio</a></li>
@@ -95,19 +83,12 @@
             <li><a href="#productos">Productos</a></li>
             <li><a href="AcercaDe">Acerca de Nosotros</a></li>
             <li><a href="Contactanos">Contactanos</a></li>
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>Mas <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="index.jsp">Home CTA</a></li>
-                <li><a href="index-form.jsp">Home Form</a></li>
-                <li><a href="index-video.jsp">Home video</a></li>
-              </ul>
-            </li>-->
+
           </ul>
         </div>
-        <!-- /.navbar-collapse -->
+
       </div>
-      <!-- /.container -->
+
     </nav>
       
       <section id="doctor" class="home-section bg-gray paddingbot-60">
@@ -164,7 +145,7 @@
                   <div class="cbp-l-grid-team-position">Suspensiones</div>
                 </li>
                 
-                <!--------------2------------->
+
                 <li class="cbp-item discosDeClutch">
                   <a href="marcas/Exedy.html" class="cbp-caption cbp-singlePage">
                     <div class="cbp-caption-defaultWrap">
@@ -249,7 +230,7 @@
                   <div class="cbp-l-grid-team-position">Lubricante</div>
                 </li>
 
-              </ul>-->
+              </ul>
             </div>
           </div>
         </div>
